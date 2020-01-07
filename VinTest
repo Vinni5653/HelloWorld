@@ -1,0 +1,6 @@
+Class HelloWorld
+{
+public static void man(String[] args){
+System.out.println("My first program on github ");
+}
+}
